@@ -1,8 +1,8 @@
 <h1 align="center">
-<b> 『🅰🅽🅸🅴🆄🆂🅴🆁🅱🅾🆃』🇮🇳 </b>
+<b> 『╰OP╯𓆩Miss☆PARI𓆪࿐』🇮🇳 </b>
 </h1>
 
-[![ANIEBOT](https://telegra.ph/file/89983f4c15bdac6998093.jpg)](https://github.com/Anieteam/Aniebots)
+[![ANIEBOT](https://te.legra.ph/file/571b25a7ec3260edb0b88.jpg)](https://github.com/Anieteam/Aniebots)
 
 <h6 align="center">
   <b>⚡ AnieBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
@@ -57,13 +57,13 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/89983f4c15bdac6998093.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/571b25a7ec3260edb0b88.jpg)](https://heroku.com/deploy/)
 
 ## Deploy Locally
 
 - Clone the repo. 
 
-`git clone https://github.com/Anieteam/Aniebots.git`
+`git clone https://github.com/nairaop/Aniebots.git`
 - Open Cloned Folder.
 
 `cd ANIEUSERBOT`
@@ -148,7 +148,7 @@
 
 ANIEUB
 
-Poject [ANIEBOT](https://github.com/Anieteam/Aniebots) is free software: you can redistribute it and/or modify
+Poject [ANIEBOT](https://github.com/nairaop/Aniebots) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
