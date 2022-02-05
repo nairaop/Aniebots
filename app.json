@@ -1,7 +1,7 @@
 {
-  "name": "🅰🅽🅸🅴🆄🆂🅴🆁🅱🅾🆃",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Denvil. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/89983f4c15bdac6998093.jpg",
+  "name": "╰OP╯𓆩Miss☆PARI𓆪࿐",
+  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ ╰OP╯𓆩Miss☆PARI𓆪࿐",
+  "logo": "https://te.legra.ph/file/571b25a7ec3260edb0b88.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Anieteam/Aniebots/",
-  "website": "https://github.com/Anieteam/Aniebots/",
-  "success_url": "https://t.me/Aniebotsupports",
+  "repository": "https://github.com/nairaop/Aniebots/",
+  "website": "https://github.com/nairaop/Aniebots/",
+  "success_url": "https://t.me/d_o_s_t_o_k_i_y_a_r_i",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -55,7 +55,7 @@
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Aniebots",
+      "value": "@d_o_s_t_o_k_i_y_a_r_i",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -65,22 +65,22 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/571b25a7ec3260edb0b88.jpg",
       "required": false
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/571b25a7ec3260edb0b88.jpg",
       "required": false
     },
     "PING_PIC": {
       "description": "Put here any telegraph media link for PING pic in .ping command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/571b25a7ec3260edb0b88.jpg",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive.",
-      "value": "",
+      "value": "https://te.legra.ph/file/571b25a7ec3260edb0b88.jpg",
       "required": false
     },
     "ALIVE_EMOJI": {
@@ -90,12 +90,12 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍.",
+      "value": "╰OP╯𓆩Miss☆PARI𓆪࿐.",
       "required": true
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "",
+      "value": "https://te.legra.ph/file/571b25a7ec3260edb0b88.jpg",
       "required": false
     },
     "PM_MSG": {
